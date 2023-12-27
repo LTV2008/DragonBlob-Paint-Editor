@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="1534.9974"
-   height="402.21274"
-   viewBox="0 0 1534.9974 402.21274"
+   width="318.59116"
+   height="98.698448"
+   viewBox="0 0 318.59115 98.698451"
    id="svg260"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logosmall.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata266">
@@ -41,9 +41,9 @@
      inkscape:window-height="991"
      id="namedview262"
      showgrid="false"
-     inkscape:zoom="0.71636815"
-     inkscape:cx="651.82778"
-     inkscape:cy="-19.589923"
+     inkscape:zoom="1.0130976"
+     inkscape:cx="401.78837"
+     inkscape:cy="-26.101351"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -54,15 +54,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <g
-     transform="translate(47.596975,38.5737)"
+     transform="translate(-563.05684,-109.67323)"
      id="g258">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.99899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.388182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect956"
-       width="1550.8795"
-       height="406.96893"
-       x="-53.087299"
-       y="-44.621025" />
+       width="299.45023"
+       height="79.481133"
+       x="573.25018"
+       y="119.8681" />
     <g
        data-paper-data="{&quot;isPaintingLayer&quot;:true}"
        stroke-linejoin="miter"
@@ -70,7 +70,8 @@
        stroke-dasharray="none"
        stroke-dashoffset="0"
        style="mix-blend-mode:normal"
-       id="g256">
+       id="g256"
+       transform="matrix(0.19308414,0,0,0.19530025,583.50046,128.5826)">
       <g
          fill-rule="nonzero"
          stroke="#000000"
