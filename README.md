@@ -5,4 +5,4 @@ This provides a paint editor React component that takes and outputs bitmap image
 ### Installation
 coming soon
 ### Credits
-scratch-paint by scratchfoundation, papergrapher by w00dn, and Paper.js. 
+[scratch-paint by scratchfoundation](https://github.com/scratchfoundation/scratch-paint), [papergrapher by w00dn](https://github.com/w00dn/papergrapher), and [Paper.js](https://github.com/paperjs/paper.js). 
